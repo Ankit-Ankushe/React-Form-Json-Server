@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "Name": "Ankit",
+      "Age": "21",
+      "Address": "Nagpur",
+      "Department": "Maths",
+      "Salary": "100000",
+      "marital_state": "No",
+      "id": 1
+    },
+    {
+      "Name": "Yash",
+      "Age": "21",
+      "Address": "Nagpur",
+      "Department": "Maths",
+      "Salary": "10000",
+      "marital_state": "No",
+      "id": 2
+    },
+    {
+      "Name": "Divya",
+      "Age": "21",
+      "Address": "Nagpur",
+      "Department": "Maths",
+      "Salary": "10000",
+      "marital_state": "No",
+      "id": 3
+    },
+    {
+      "Name": "Bidya",
+      "Age": "21",
+      "Address": "Nagpur",
+      "Department": "Maths",
+      "Salary": "10000",
+      "marital_state": "No",
+      "id": 4
+    }
+  ]
+}
